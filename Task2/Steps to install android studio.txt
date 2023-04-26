@@ -1,0 +1,12 @@
+Steps of install Android studio app
+
+1 -> Fristly search and go on Android studio website.
+2 -> Click on the Download Android Studio Button.
+3 -> After the downloading has finished, open the file 
+     from downloads and run it. It will prompt the dialog box. Click on next. In the next prompt, it’ll ask for a path for installation. 
+     Choose a path and hit next.  
+4 -> It will start the installation, and once it is completed.Click on next.
+5 -> Once “Finish” is clicked, it will ask whether the previous settings need to be 
+     imported [if the android studio had been installed earlier], or not. It is better
+     to choose the ‘Don’t import Settings option’.Click the OK button.   
+6 -> This will start the Android Studio. 
